@@ -6,6 +6,8 @@ public class Hero {
 	
 	protected void showPower() {
 		System.out.println("The Greated power of all :" + power);
+		
+	
 	}
 
 }
